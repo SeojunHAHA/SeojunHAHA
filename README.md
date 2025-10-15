@@ -24,13 +24,6 @@ while **Business and Computer Engineering** give me the tools to analyze and bui
 
 ---
 
-### 🛠 Tech Interests
-- Data Analysis, Machine Learning, and Sports Analytics  
-- Python (Pandas, PyTorch, scikit-learn), SQL, R  
-- Visualization & Insight Communication  
-
----
-
 <p align="center">
   🧡 “Turning data into stories that move people.”
 </p>
