@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 
+
+Hello I'm Seojun
+
+📱 I major in Business / Kinesiology and minor in Computer Engineering
+💡 I'm studying to become a Data Scientist
+✨ The reason why I study AI and Data Science is I can find out unknown features or insights throught analyzing data. Futhermore, I believe using these features and insights I can make better world by inventing useful tech.
+
 
 <!--
 **SeojunHAHA/SeojunHAHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
