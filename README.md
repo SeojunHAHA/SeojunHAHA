@@ -5,7 +5,7 @@
 <p align="center">
   📚 Major in Business / Kinesiology  •  Minor in Computer Engineering<br>
   🎓 From Keimyung University, South Korea<br>
-  🌍 Currently an Exchange Student at SDU, Denmark<br>
+  🌍 Currently an Exchange Student at SDU, Denmark. Studying Computer Science<br>
   💡 Aspiring Data Scientist
 </p>
 
