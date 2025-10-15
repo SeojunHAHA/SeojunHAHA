@@ -11,10 +11,10 @@
 
 ### 🌱 About Me
 - Passionate about exploring the connection between **data** and **human behavior**  
-- Love learning and analyzing patterns
-  
+- Love learning and analyzing patterns  
+
 ---
 
-<p align="center">
-  “Turning data into stories that move people.”
-</p>
+<h3 align="center">
+  <b><i>Turning data into stories that move people.</i></b>
+</h3>
