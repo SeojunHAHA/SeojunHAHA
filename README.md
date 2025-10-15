@@ -16,5 +16,5 @@
 ---
 
 <p align="center">
-  🧡 “Turning data into stories that move people.”
+  “Turning data into stories that move people.”
 </p>
