@@ -20,22 +20,3 @@
 <h3 align="center">
   <i>Turning data into stories that move people.</i>
 </h3>
-
-<p align="center">
-  📚 Major in Business / Kinesiology  •  Minor in Computer Engineering<br>
-  🎓 From Keimyung University, South Korea<br>
-  🌍 Currently an Exchange Student at SDU, Denmark<br>
-  💡 Aspiring Data Scientist
-</p>
-
----
-
-### 🌱 About Me
-- Passionate about exploring the connection between data and human behavior  
-- Love learning and analyzing patterns  
-
----
-
-<h3 align="center">
-  <i>Turning data into stories that move people.</i>
-</h3>
