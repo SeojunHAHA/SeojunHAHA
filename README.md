@@ -6,7 +6,12 @@
   🌍 Currently an <b>Exchange Student</b> at <b>SDU, Denmark</b><br>
   💡 Aspiring <b>Data Scientist</b>
 </p>
+---
 
+### 🌱 About Me
+- Passionate about exploring the connection between **data** and **human behavior**  
+- Love learning and analyzing patterns
+  
 ---
 
 <p align="center">
