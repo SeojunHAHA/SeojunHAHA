@@ -6,6 +6,7 @@
   🌍 Currently an <b>Exchange Student</b> at <b>SDU, Denmark</b><br>
   💡 Aspiring <b>Data Scientist</b>
 </p>
+
 ---
 
 ### 🌱 About Me
