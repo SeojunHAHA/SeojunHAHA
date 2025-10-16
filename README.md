@@ -17,6 +17,7 @@
 
 ---
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SeojunHa?theme=dark&font=Source%20Code%20Pro)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/SeojunHa)](https://leetcode.com/SeojunHa)
 
 <h3 align="center">
   <i>Turning data into stories that move people.</i>
