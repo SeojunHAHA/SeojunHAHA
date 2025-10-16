@@ -16,7 +16,7 @@
 - Love learning and analyzing patterns  
 
 ---
-![LeetCode Stats](https://leetcard.jacoblin.cool/SeojunHa?theme=dark&font=Source%20Code%20Pro)
+![LeetCode Stats](https://leetcard.jacoblin.cool/seojunha?theme=dark&font=Source%20Code%20Pro)
 
 <h3 align="center">
   <i>Turning data into stories that move people.</i>
