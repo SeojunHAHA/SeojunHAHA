@@ -3,20 +3,12 @@
 </h1>
 
 <p align="Left">
-  📚 Major in Business / Kinesiology  •  Minor in Computer Engineering<br>
+  📚 Major in Kinesiology / Computer Engineering / Business Administration [Triple Major]<br>
   🎓 From Keimyung University, South Korea<br>
   🌍 Currently studying Computer Science as an Exchange Student at SDU, Denmark<br>
-  💡 Aspiring Data Scientist
 </p>
 
 ---
-
-### 🌱 About Me
-- Passionate about exploring the connection between data and human behavior  
-- Love learning and analyzing patterns  
-
----
-![LeetCode Stats](https://leetcard.jacoblin.cool/seojunha?theme=dark&font=Source%20Code%20Pro)
 
 <h3 align="center">
   <i>Turning data into stories that move people.</i>
