@@ -16,7 +16,6 @@ I’m currently working as a **Research Intern at DGIST AI & Vision Lab**, advis
 - **Computer Vision**
 - **3D Vision & Geometry**
 - **Deep Learning / Vision Transformers**
-- **Vision for Robotics and Autonomous Systems**
 
 ---
 
